@@ -7,10 +7,15 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
   
+  
+  <div className="inicio">
+    <h1>juan jesus poveda</h1>
+    <div className='dato'><img src="luna.jpg" /></div>
+    
+    
+   
+  </div>
   )
 }
 
